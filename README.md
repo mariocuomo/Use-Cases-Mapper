@@ -56,7 +56,7 @@ The necessary information to be inserted here are:
 - a Region
 - a Workspace Name
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgist.githubusercontent.com%2Fmariocuomo%2Ffc7458fd2328c41275b24570e50304ee%2Fraw%2F90ad3a7c187ad2eaaa195f9c7a77766827ea97a1%2Fdeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmariocuomo%2FUse-Cases-Mapper%2Fmain%2Fdeployment.json)
 
 > ⚠️ After deployment, it may take a few minutes (10-15 min) until the necessary values from the watchlists are available in the workbook.
 
