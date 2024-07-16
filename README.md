@@ -29,7 +29,8 @@ In order to be able to adapt this information to your own needs, the option of r
 The available results are presented by selecting the right **Use Cases** and the corresponding **Data Sources**.
 There are the appropriate selection options for this (see pictures following :point_down:).
 
-<div style="text-align: right"><img src="https://github.com/mariocuomo_microsoft/Use-Cases-Mapper/blob/main/img/img1.png" width="290" /><img src="https://github.com/mariocuomo_microsoft/Use-Cases-Mapper/blob/main/img/img2.png" width="350" /></div>
+
+<div style="text-align: right"><img src="https://github.com/mariocuomo/Use-Cases-Mapper/blob/main/img/img1.png" width="290" /><img src="https://github.com/mariocuomo/Use-Cases-Mapper/blob/main/img/img2.png" width="350" /></div>
 
 The expected results:
 
