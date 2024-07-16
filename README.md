@@ -62,6 +62,12 @@ The necessary information to be inserted here are:
 
 ---
 
+<div align=center>
+  <img src="https://github.com/mariocuomo/Use-Cases-Mapper/blob/main/img/img3.png"/ width="700">
+</div>
+
+---
+
 Created by: Mario Cuomo, Thomas Bruendl and Nikolay Salnikov
 
 
