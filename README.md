@@ -52,7 +52,7 @@ Below you can find a button to start the process (custom deployment).
 The necessary information to be inserted here are:
 
 - a Subscription (selection possible via dropdown and selection depending on the logged-in tenant)
-- a Resource Rroup (please select the resource group in which the Sentinel Workspace was also deployed)
+- a Resource Group (please select the resource group in which the Sentinel Workspace was also deployed)
 - a Region
 - a Workspace Name
 
